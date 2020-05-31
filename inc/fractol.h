@@ -3,17 +3,17 @@
 /*                                                        :::      ::::::::   */
 /*   fractol.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ooliinyk <ooliinyk@student.42.fr>          +#+  +:+       +#+        */
+/*   By: macuser <macuser@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/03 11:59:09 by ooliinyk          #+#    #+#             */
-/*   Updated: 2019/07/03 15:22:32 by ooliinyk         ###   ########.fr       */
+/*   Updated: 2020/05/31 17:54:53 by macuser          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef _FRACTOL_H
 # define _FRACTOL_H
 # include "../lib/libft/includes/libft.h"
-# include <mlx.h>
+# include "../lib/minilibx_macos/mlx.h"
 # include <math.h>
 # include <pthread.h>
 
